@@ -1,0 +1,7 @@
+name: Blockplacelava
+version: 1.0
+main: com.jake.blockplacelava.Blockplacelava
+api-version: 1.16
+commands:
+  blockplacelava:
+    description: Starts the every block you place turns to lava challenge
